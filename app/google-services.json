@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "413377571858",
+    "project_id": "login-register-firebase-280e3",
+    "storage_bucket": "login-register-firebase-280e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413377571858:android:a5669ea7d66bca79e2bccb",
+        "android_client_info": {
+          "package_name": "com.example.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413377571858-a0mk8a0aunvij9f1oq51qhs1goubd4qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9oe45Nyuk1UNrdqH1J-IkHUfxPfPmUFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413377571858-a0mk8a0aunvij9f1oq51qhs1goubd4qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
